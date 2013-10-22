@@ -1,0 +1,29 @@
+{
+  "name": "project-files",
+  "version": "0.0.0",
+  "description": "A way of managing project files inspired by the Angular.js build system",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamestalmage/project-files.git"
+  },
+  "keywords": [
+    "project",
+    "files",
+    "grunt",
+    "build",
+    "angular"
+  ],
+  "author": "James Talmage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestalmage/project-files/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.13.0"
+  }
+}
