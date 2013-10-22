@@ -1,4 +1,4 @@
-project-files
+project-files [![Build Status](https://travis-ci.org/jamestalmage/project-files.png?branch=master)](https://travis-ci.org/jamestalmage/project-files)
 =============
 
 Project File Management, inspired by the Angular.js build system
